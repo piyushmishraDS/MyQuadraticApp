@@ -48,6 +48,6 @@ if __name__ == '__main__':
  	end_x = st.sidebar.number_input('Insert a end range', value=10)
  	num_steps = st.sidebar.number_input('No. of points', value=10)
  	fig = quadratic_eq(coeff_a, coeff_b, coeff_c, start_x, end_x, num_steps)
- 	st.pyplot()
+ 	st.pyplot(fig)
 
  	st.markdown("#Solutions")
