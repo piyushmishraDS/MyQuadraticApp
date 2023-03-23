@@ -1,6 +1,6 @@
-Markdown==3.2.2
-matplotlib==3.7.1
-numpy==1.20
-streamlit==0.59.0
-urllib3==1.25.8
+Markdown
+matplotlib
+numpy
+streamlit
+urllib3
 
